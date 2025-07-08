@@ -1,1 +1,2 @@
-cd Desktop
+pip install streamlit request
+streamlit-autorefresh
